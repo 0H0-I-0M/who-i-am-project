@@ -1,0 +1,18 @@
+body{
+
+    margin: 0px !important; 
+
+}
+
+
+.koni{
+
+    background-color: black;
+    width: 200px;
+    height: 600px;
+    position: fixed;
+    flex: 20px;
+    
+
+
+}
